@@ -98,13 +98,13 @@ pytest test_tools.py -v
 ![calculator_demo](calculator_demo.JPG)
 
 ### 🔗 Multi Tools
-![Multi Tools](screenshots/multi_tools_demo.jpeg)
+![multi_tools_demo](multi_tools_demo.JPG)
 
 ### 🔎 Search
-![Search](screenshots/search_demo.jpeg)
+![search_demo](search_demo.JPG)
 
 ### 🌦️ Weather
-![Weather](screenshots/weather_demo.JPG)
+![weather_demo](weather_demo.JPG)
 
 ---
 
