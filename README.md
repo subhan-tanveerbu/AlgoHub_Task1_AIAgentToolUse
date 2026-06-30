@@ -95,7 +95,7 @@ pytest test_tools.py -v
 ## 📸 8. Screenshots
 
 ### 🧮 Calculator
-![calculator_demo](screenshots/calculator_demo.JPG)
+![calculator_demo](calculator_demo.JPG)
 
 ### 🔗 Multi Tools
 ![Multi Tools](screenshots/multi_tools_demo.jpeg)
