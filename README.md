@@ -104,7 +104,7 @@ Query	Tool Used
 
     <td align="center">
       <b>Weather</b><br>
-      <img src="screenshots/weather_demo.jpeg" width="250"/>
+      <img src="screenshots/weather_demo.JPG" width="250"/>
     </td>
   </tr>
 </table>
