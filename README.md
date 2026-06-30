@@ -81,15 +81,33 @@ Query	Tool Used
 “Weather in Rawalpindi”	Weather API
 “Latest AI news”	Web Search
 “If temp > 30°C, suggest activity”	Weather + Reasoning
-📸 8. Screenshots
+## 📸 8. Screenshots
 
+### 🧮 Calculator Tool | 🌦️ Weather | 🔎 Search | 🔗 Multi-tool
 
-
-
-
-
-
-
+<table>
+  <tr>
+    <td align="center">
+      <b>Calculator</b><br>
+      <img src="screenshots/calculator_demo.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Multi Tools</b><br>
+      <img src="screenshots/multi_tools_demo.png" width="250"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <b>Search</b><br>
+      <img src="screenshots/search_demo.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Weather</b><br>
+      <img src="screenshots/weather_demo.png" width="250"/>
+    </td>
+  </tr>
+</table>
 🚀 9. Deployment
 Push repo to GitHub
 Open https://share.streamlit.io
