@@ -83,31 +83,19 @@ Query	Tool Used
 “If temp > 30°C, suggest activity”	Weather + Reasoning
 ## 📸 8. Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Calculator</b><br>
-      <img src="screenshots/calculator_demo.jpeg" width="250"/>
-    </td>
+## 📸 8. Screenshots
 
-    <td align="center">
-      <b>Multi Tools</b><br>
-      <img src="screenshots/multi_tools_demo.jpeg" width="250"/>
-    </td>
-  </tr>
+### 🧮 Calculator
+![Calculator](screenshots/calculator_demo.jpeg)
 
-  <tr>
-    <td align="center">
-      <b>Search</b><br>
-      <img src="screenshots/search_demo.jpeg" width="250"/>
-    </td>
+### 🔗 Multi Tools
+![Multi Tools](screenshots/multi_tools_demo.jpeg)
 
-    <td align="center">
-      <b>Weather</b><br>
-      <img src="screenshots/weather_demo.JPG" width="250"/>
-    </td>
-  </tr>
-</table>
+### 🔎 Search
+![Search](screenshots/search_demo.jpeg)
+
+### 🌦️ Weather
+![Weather](screenshots/weather_demo.JPG)
 🚀 9. Deployment
 Push repo to GitHub
 Open https://share.streamlit.io
